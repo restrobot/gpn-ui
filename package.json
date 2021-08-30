@@ -1,5 +1,5 @@
 {
-  "name": "cube-ui",
+  "name": "gpn-ui",
   "version": "0.0.1",
   "description": "gpn-ui supported by cube-ui",
   "main": "lib/index.js",
