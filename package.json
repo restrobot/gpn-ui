@@ -1,7 +1,7 @@
 {
   "name": "cube-ui",
-  "version": "1.12.46",
-  "description": "A fantastic mobile ui lib implement by Vue",
+  "version": "0.0.1",
+  "description": "gpn-ui supported by cube-ui",
   "main": "lib/index.js",
   "module": "src/index.js",
   "typings": "types/index.d.ts",
@@ -42,11 +42,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:didi/cube-ui.git"
+    "url": "git@github.com:yeenjian/gpn-ui.git"
   },
-  "homepage": "https://didi.github.io/cube-ui/",
+  "homepage": "https://github.com/yeenjian/cube-ui",
   "bugs": {
-    "url": "https://github.com/didi/cube-ui/issues"
+    "url": "https://github.com/yeenjian/gpn-ui/issues"
   },
   "keywords": [
     "cube-ui",

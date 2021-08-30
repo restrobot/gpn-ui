@@ -302,7 +302,8 @@
       if (this.autoPlay) {
         this._play()
       }
-      window.addEventListener('resize', this._resizeHandler)
+      this._resizeHandler()
+      // window.addEventListener('resize', this._resizeHandler)
     },
     deactivated() {
       /* istanbul ignore next */
